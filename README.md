@@ -1,5 +1,5 @@
 # CFG Feedback Project
-Team yellow
+Created by CFG fellowship team yellow: 
 - Sarah MacNeill
 - Emma Martin
 - Iria Heitel
@@ -7,7 +7,7 @@ Team yellow
 - Shimi Noronha
 
 ## About this project
-This presentation is a RevealJS presentation. You can find the documentation at [revealjs.com]. 
+This presentation is created using the RevealJS HTML framework. You can find the documentation at [revealjs.com](revealjs.com). 
 
 ### Making changes
 
@@ -17,5 +17,5 @@ To see your changes, either open the index html file in a browser, or `npm insta
 
 ### Publishing changes
 
-Anything on the master branch will be published on Sarah's GitHub via GitHub pages. You can view the current live version at [https://sarahmacneill.github.io/cfg-feedback-project/#/].
+Make sure you have committer acccess to the repo so you can make edits! Anything on the master branch will be published on Sarah's GitHub via GitHub pages. You can view the current live version [here](https://sarahmacneill.github.io/cfg-feedback-project/#/).
 
