@@ -17,5 +17,5 @@ To see your changes, either open the index html file in a browser, or `npm insta
 
 ### Publishing changes
 
-Anything on the master branch will be published on Sarah's GitHub via GitHub pages.
+Anything on the master branch will be published on Sarah's GitHub via GitHub pages. You can view the current live version at [https://sarahmacneill.github.io/cfg-feedback-project/#/].
 
